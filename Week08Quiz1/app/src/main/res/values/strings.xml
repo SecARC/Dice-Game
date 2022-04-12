@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Week08-Quiz1</string>
+    <string name="backgammon_info"><i>When <b>TWO PLAYERS</b> playing the game, the score wont be a problem any more. This app will store the score <u>securely</u>.</i></string>
+    <string name="initialscore">0 - 0</string>
+    <string name="isthewinner">is the winner</string>
+    <string name="resetbutton">Reset</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="player1name">Player 1 Name</string>
+    <string name="player2name">Player 2 Name</string>
+    <string name="startbutton">Start</string>
+    <string name="winnername">WinnerName</string>
+</resources>
